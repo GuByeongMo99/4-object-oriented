@@ -11,4 +11,3 @@ using namespace std;
             count++;
     }
     cout << 'x' << "의 개수는 " << count << endl;
-}
