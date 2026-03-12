@@ -6,7 +6,7 @@ int main() {
     printf("끝수를 입력하세요 >>");
     scanf("%d", &n);
     if (n <= 0) {
-        printf("양수를입력하세요! \n");
+        printf("양수를 입력하세요! \n");
     return 0;
     }
     printf("1에서 %d까지의 합은 %d 입니다\n", n, sum(1,n));
