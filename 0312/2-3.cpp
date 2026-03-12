@@ -18,7 +18,7 @@ int main()
 
     for(int i=0 ; i<5 ; i++)
     {
-
+        scanf("%lf",&a[i]);
     }
     cout << "제일 큰 수 = " << biggest(a,5) << endl;
 }

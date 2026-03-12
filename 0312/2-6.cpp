@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+    int main() 
+    {
+        char name[100], char address[100];
+        int age;
+        cout << "이름은?";
+}
